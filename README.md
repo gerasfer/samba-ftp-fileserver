@@ -15,12 +15,7 @@ This repository contains the configuration and setup guide for a Linux-based fil
 | Share Name | Physical Path | Access Level | Target Audience |
 | :--- | :--- | :--- | :--- |
 | public | /samba/public | Guest Allowed | All Employees |
-| private | /samba/private | Authorized Only | IT Department |
-
-## ⚙️ Hardware Environment
-- CPU: AMD Ryzen 5 4600H
-- RAM: 8 GB (Baseline for testing)
-- NICs: Ethernet (eno2) for Local LAN, Wi-Fi (wlo1) for WAN.
+| private | /samba/private | Authorized Only | IT 
 
 ## 🚀 Quick Setup Guide
 
